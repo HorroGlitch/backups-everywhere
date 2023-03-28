@@ -1,0 +1,38 @@
+#navOrange {
+    width: 100%;
+    background-color: rgb(248, 149, 0);
+    height: 370px;
+    margin-top: 110px;
+    box-shadow: 0px -8px 0px 0px #f8cb00, 0px 8px 0px 0px #f8cb00;
+}
+
+#logoBackup{
+    width: 110px;
+    height: 300px;
+    margin-left: 47%;
+}
+
+#allNavigate{
+    color: white;
+    font-family: 'Comic Neue', cursive;
+    text-align: center;
+}
+
+.navigate{
+    display: inline-block;
+    margin: 15px;
+    font-size: 25px;
+}
+
+#backupsTitre{
+    text-transform: uppercase;
+    font-family: 'Baloo Chettan 2', cursive;
+    text-align: center;
+    color: gray;
+    font-size: 40px;
+}
+
+#videoExplicative{
+    align-items: center;
+    justify-content: center;
+}
